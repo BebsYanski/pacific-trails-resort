@@ -1,49 +1,47 @@
 body {
     background-color: #ffffff;
-    color: #003366;
-    font-family: Arial, Verdana, sans-serif;
+    color: #666666;
+    font-family: Verdana, sans-serif;
 }
 
 header {
-    color: #aec3e3;
-    background-color: #003366;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    background-color: #002171;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 nav {
-    text-align: center;
+    color: #bbdefb;
     font-weight: 700;
 }
 
 h1 {
     line-height: 200%;
-    text-indent: 1em;
 }
 
 h2 {
-    font-size: 1.2em;
+    color: #1976d2;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 dt {
-    color: #5280c5;
-    font-size: 1.1em;
+    color: #002171;
     font-weight: 600;
-    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 footer {
     font-size: .07em;
     font-style: italic;
+    text-align: center;
 }
 
 #wrapper {
-    width: 90%;
+    width: 80%;
     background-color: #f0f0f0;
     margin: 0 auto;
 }
 
-.category {
-    font-weight: 600;
-    color: #5380c5;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.resort {
+    color: #1976d2;
+    font-size: 1.2em;
 }
